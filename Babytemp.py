@@ -37,4 +37,5 @@ else:
     print("Average temperature (degrees celcius) = " + str(avtemp))
 
 print(temprange)
+print("Tyrone is a sexy beast")
 
